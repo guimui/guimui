@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @guimui
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me gloria.s.mui@gmail.com
+- 📫 How to reach me giamui1123@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've climbed to an altitude higher than I've jumped out of a plane.
 
